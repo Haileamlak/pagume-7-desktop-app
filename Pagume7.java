@@ -15,6 +15,11 @@ import java.time.LocalTime;
 import java.util.Vector;
 import java.net.URI;
 
+// project description
+// This is a desktop application that converts dates between the Ethiopian and Gregorian calendars. 
+// It also provides information about holidays, fasting days, and the day of the week for a given date.
+// The application is written in Java and uses the Swing library for the user interface.
+
 public class Pagume7 extends JFrame implements ActionListener {
 
         JPanel p1, p2, pTemp, bigPanel;
