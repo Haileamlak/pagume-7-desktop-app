@@ -18,17 +18,17 @@
   <tr>
   </tr>
   <tr>
-    <td><img src="screenshots/homepage.jpg" width=500></td>
+    <td><img src="screenshots/homepage.jpg" width=600></td>
   </tr>
 
   <tr>
-    <td><img src="screenshots/calendar.jpg" width=500></td>
+    <td><img src="screenshots/calendar.jpg" width=600></td>
   </tr>
 
   <tr>
-    <td><img src="screenshots/num_convertor.jpg" width=500></td>
+    <td><img src="screenshots/num_convertor.jpg" width=600></td>
   </tr>
   
   <tr>
-    <td><img src="screenshots/settings.jpg" width=500></td>
+    <td><img src="screenshots/settings.jpg" width=600></td>
   </tr>
