@@ -14,3 +14,21 @@
 
 - **Programming Language**: *Java*
 - **Framework**: *Java Swing* for the graphical user interface
+<table>
+  <tr>
+  </tr>
+  <tr>
+    <td><img src="screenshots/homepage.png" width=760></td>
+  </tr>
+
+  <tr>
+    <td><img src="screenshots/calendar.png" width=760></td>
+  </tr>
+
+  <tr>
+    <td><img src="screenshots/num_convertor.png" width=760></td>
+  </tr>
+  
+  <tr>
+    <td><img src="screenshots/settings.png" width=760></td>
+  </tr>
