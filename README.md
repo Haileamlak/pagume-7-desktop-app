@@ -32,3 +32,4 @@
   <tr>
     <td><img src="screenshots/settings.jpg" width=600></td>
   </tr>
+</table>
