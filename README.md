@@ -1,6 +1,6 @@
 # Pagume 7
 
-**Pagume 7** is a Java Swing-based calendar tool that provides features for both Ethiopian and Gregorian calendars. This application is designed to handle date conversions, number translations, and various date-related calculations.
+**Pagume 7** is a desktop application implemented in Java Swing for the graphical user interface with functionalities such as viewing the monthly calendar, converting dates between the Ethiopian and Gregorian calendars, translating numbers between Ethiopic and Arabic, calculating the holidays and fasting days of a year, and determining the day of the week for a given date.
 
 ## Features
 
